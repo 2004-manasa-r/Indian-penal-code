@@ -5,4 +5,4 @@ groq
 faiss-cpu
 requests
 transformers
-sentence-transformer
+sentence-transformers
